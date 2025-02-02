@@ -1,1 +1,15 @@
+Install necessary package..
+
+pip install qrcode
+
+📌 qrcode Package in Python
+The qrcode package in Python is used to generate QR codes quickly and efficiently. It allows encoding text, URLs, or 
+any other data into a scannable QR code image.
+
+🔍 Key Features of qrcode Package
+✅ Generate simple or custom QR codes
+✅ Adjust size, error correction, colors
+✅ Save QR codes as PNG, JPEG, SVG, etc.
+✅ Works with Pillow for advanced image processing
+
 
