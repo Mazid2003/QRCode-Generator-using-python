@@ -1,3 +1,6 @@
+For better experience use it in VScode 
+
+
 **🔗 QR Code Generator for My Portfolio**
 
 **📌 Overview**
@@ -16,7 +19,7 @@ This Python script generates a QR code for my portfolio website, making it easy 
 
 2️⃣ Generates a QR code
 
-3️⃣ Saves it as an image file
+3️⃣ Saves it as an image file   
 
 **🎯 Why This is Useful?**
 
@@ -26,4 +29,4 @@ This Python script generates a QR code for my portfolio website, making it easy 
 
 📌 Embed in documents and presentations
 
-Would you like me to generate a README.md file for your repo? 🚀
+
