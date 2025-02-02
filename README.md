@@ -1,5 +1,3 @@
-For better experience use it in VScode 
-
 
 **🔗 QR Code Generator for My Portfolio**
 
