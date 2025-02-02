@@ -1,3 +1,9 @@
+For better experience use it in Visual Studio code editor
+
+Add a file in the project folder or directory which you are doing the code to save the generated qrcode..
+
+Add that file path in the given code to save the qrcode
+
 Install necessary package..
 
 pip install qrcode
