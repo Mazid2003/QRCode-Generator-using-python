@@ -28,7 +28,7 @@ This Python script generates a QR code for my portfolio website, making it easy 
 
 📌 Embed in documents and presentations
 
-📜 License
+**📜 License**
 
 This project is open-source under the MIT License. Feel free to use and
 modify it! 🚀
